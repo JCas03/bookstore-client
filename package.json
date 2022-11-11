@@ -2,7 +2,7 @@
   "name": "bookstoreclient",
   "version": "0.1.0",
   "engines": {
-    "node": "15.x"
+    "node": "18.12.1"
   },
   "private": true,
   "dependencies": {
